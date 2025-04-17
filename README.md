@@ -2,9 +2,9 @@
 
 ### Implement the diagram.  You must produce the following output:  Disregard the comment.
 
-Creating a PDF Document prototype. //Executed in the constructor
-Creating a Text Document prototype. //Executed in the constructor
-Creating a Spreadsheet Document prototype. ///Executed in the constructor
+Creating a PDF Document prototype. //Executed in the constructor\
+Creating a Text Document prototype. //Executed in the constructor\
+Creating a Spreadsheet Document prototype. ///Executed in the constructor \
 
 Opening PDF Document: annual_report_2024.pdf by Acme Corp (150 pages)
 Type: PDF, File: annual_report_2024.pdf, Author: Acme Corp, Pages: 150
